@@ -11,8 +11,9 @@
   1° Estágio em desenvolvimento FullStack com .Net
 
   2° Análista desenvolvedor junior (SQL Server).
-
-  <a href="https://www.instagram.com/joaovitorrb19/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  
+  <a target="_blank" href="https://www.instagram.com/joaovitorrb19/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/joao-vitor-rodrigues-batista-797644212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **joaovitorrb19/joaovitorrb19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
