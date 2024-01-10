@@ -1,10 +1,10 @@
 #👋 Oi! Eu sou o joão e seja bem vindo ao meu github!
 
--Sou desenvolvedor .Net e angular.
+-Sou desenvolvedor Java e angular.
 
 -Sou formado em Análise e Desenvolvimento de Sistemas.
 
--Atualmente estou estudando Angular e também .Net, além de SQL Server.
+-Atualmente estou estudando Angular e também Java, o ecossistema Spring, Cloud além de SQL Server.
 
 -Tive algumas experiências como desenvolvedor:
 
